@@ -1,0 +1,19 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f05d67;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    flex-flow: column nowrap;
+}
+
+.main h1 {
+    color: white;
+}
+
+.main h3 {
+    font-size: 50px;
+    color: #fdeecf;
+}
