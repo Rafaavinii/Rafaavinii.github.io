@@ -15,5 +15,20 @@ body {
 
 .main h3 {
     font-size: 50px;
-    color: #fdeecf;
+    color: #ffffff;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.totais {
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-left: 5px;
 }
